@@ -180,7 +180,7 @@ permalink: /information-checklist
       <td class="meaning">Lists that store multiple values.</td>
       <td class="applied">Used to store enemies, bullets, or items.</td>
     </tr>
-
+https://poway.instructure.com/profile/settings
     <tr>
       <td class="objective">Objects (JSON)</td>
       <td class="meaning">Structured data using key-value pairs.</td>
