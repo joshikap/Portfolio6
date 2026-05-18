@@ -2,7 +2,7 @@
 layout: post
 codemirror: true
 title: CSSE Objectives
-description: A JavaScript game project demonstrating core Computer Science concepts including Object-Oriented Programming, inheritance, control structures, data types, and API integration. Built using a custom game engine, it features interactive gameplay, Canvas rendering, keyboard input, and state management. The project follows software engineering practices such as version control, debugging, testing, and documentation, and is aligned with CS111 learning objectives.
+description: A JavaScript game project demonstrating core Computer Science concepts including Object-Oriented Programming, inheritance, control structures, data types, and API integration. Built using a custom game engine, it features interactive gameplay, canvas rendering, keyboard input, and state management. The project follows software engineering practices such as version control, debugging, testing, and documentation, and is aligned with CS111 learning objectives.
 permalink: /information-checklist
 
 ---
