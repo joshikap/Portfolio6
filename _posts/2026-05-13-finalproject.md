@@ -205,68 +205,100 @@ permalink: /information-checklist/
 </tr>
 
     <tr>
-      <td class="objective">Method Overriding</td>
-      <td class="meaning">
-        Replacing a parent class method with a custom version.
-      </td>
+  <td class="objective">Method Overriding</td>
 
-      <td class="applied">
-        Override
-        <span class="code">update()</span>
-        or
-        <span class="code">draw()</span>.
-      </td>
-    </tr>
+  <td class="meaning">
+    Replacing a parent class method with a custom version.
+  </td>
 
-    <tr>
-      <td class="objective">Constructor Chaining</td>
-      <td class="meaning">
-        Using parent constructors inside child classes.
-      </td>
+  <td class="applied">
+    Override
+    <span class="code">update()</span>
+    or
+    <span class="code">draw()</span>.
 
-      <td class="applied">
-        Example:
-        <span class="code">super(data)</span>
-      </td>
-    </tr>
+    <br><br>
+
+    <a href="/method-overriding/" class="learn-btn">
+      View Example
+    </a>
+  </td>
+</tr>
 
     <tr>
-      <td class="objective">Control Structures</td>
-      <td class="meaning">
-        Logic that controls program flow.
-      </td>
+  <td class="objective">Constructor Chaining</td>
 
-      <td class="applied">
-        Used with loops and conditional statements.
-      </td>
-    </tr>
+  <td class="meaning">
+    Using parent constructors inside child classes.
+  </td>
 
-    <tr>
-      <td class="objective">Iteration</td>
-      <td class="meaning">
-        Repeating code using loops.
-      </td>
+  <td class="applied">
+    Example:
+    <span class="code">super(data)</span>
 
-      <td class="applied">
-        Example:
-        <span class="code">for</span>
-        and
-        <span class="code">while</span>
-        loops.
-      </td>
-    </tr>
+    <br><br>
+
+    <a href="/constructor-chaining/" class="learn-btn">
+      View Example
+    </a>
+  </td>
+</tr>
 
     <tr>
-      <td class="objective">Conditionals</td>
-      <td class="meaning">
-        Running code only if conditions are true.
-      </td>
+  <td class="objective">Control Structures</td>
 
-      <td class="applied">
-        Example:
-        <span class="code">if (health <= 0)</span>
-      </td>
-    </tr>
+  <td class="meaning">
+    Logic that controls program flow.
+  </td>
+
+  <td class="applied">
+    Used with loops and conditional statements.
+
+    <br><br>
+
+    <a href="/control-structures/" class="learn-btn">
+      View Example
+    </a>
+  </td>
+</tr>
+
+   <tr>
+  <td class="objective">Iteration</td>
+
+  <td class="meaning">
+    Repeating code using loops.
+  </td>
+
+  <td class="applied">
+    Example:
+    <span class="code">for</span> and <span class="code">while</span> loops.
+
+    <br><br>
+
+    <a href="/iteration/" class="learn-btn">
+      View Example
+    </a>
+  </td>
+</tr>
+
+    <tr>
+  <td class="objective">Conditionals</td>
+
+  <td class="meaning">
+    Running code only if conditions are true.
+  </td>
+
+  <td class="applied">
+    Example:
+    <span class="code">if (health <= 0)</span>
+
+    <br><br>
+
+    <a href="/conditionals/" class="learn-btn">
+      View Example
+    </a>
+  </td>
+</tr>
 
     <tr>
       <td class="objective">Nested Conditions</td>
