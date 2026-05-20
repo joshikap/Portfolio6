@@ -301,174 +301,279 @@ permalink: /information-checklist/
 </tr>
 
     <tr>
-      <td class="objective">Nested Conditions</td>
-      <td class="meaning">
-        Conditions placed inside other conditions.
-      </td>
+  <td class="objective">Nested Conditions</td>
 
-      <td class="applied">
-        Used for advanced game logic checks.
-      </td>
-    </tr>
+  <td class="meaning">
+    Conditions placed inside other conditions.
+  </td>
 
-    <tr>
-      <td class="objective">Data Types</td>
-      <td class="meaning">
-        Different kinds of data used in programming.
-      </td>
+  <td class="applied">
+    Used for advanced game logic checks.
 
-      <td class="applied">
-        Includes numbers, strings, booleans, arrays, and objects.
-      </td>
-    </tr>
+    <br><br>
 
-    <tr>
-      <td class="objective">Numbers</td>
-      <td class="meaning">
-        Numeric values used in calculations.
-      </td>
+    <a href="/nested-conditions/" class="learn-btn">
+      View Example
+    </a>
+  </td>
+</tr>
 
-      <td class="applied">
-        Used for score, speed, damage, and position values.
-      </td>
-    </tr>
+   <tr>
+  <td class="objective">Data Types</td>
 
-    <tr>
-      <td class="objective">Strings</td>
-      <td class="meaning">
-        Text values stored in code.
-      </td>
+  <td class="meaning">
+    Different kinds of data used in programming.
+  </td>
 
-      <td class="applied">
-        Used for names, dialogue, and labels.
-      </td>
-    </tr>
+  <td class="applied">
+    Includes numbers, strings, booleans, arrays, and objects.
+
+    <br><br>
+
+    <a href="/data-types/" class="learn-btn">
+      View Example
+    </a>
+  </td>
+</tr>
 
     <tr>
-      <td class="objective">Booleans</td>
-      <td class="meaning">
-        True or false values.
-      </td>
+  <td class="objective">Numbers</td>
 
-      <td class="applied">
-        Example:
-        <span class="code">isAlive = true</span>
-      </td>
-    </tr>
+  <td class="meaning">
+    Numeric values used in calculations.
+  </td>
 
-    <tr>
-      <td class="objective">Arrays</td>
-      <td class="meaning">
-        Lists that store multiple values.
-      </td>
+  <td class="applied">
+    Used for score, speed, damage, and position values.
 
-      <td class="applied">
-        Used to store enemies, bullets, or items.
-      </td>
-    </tr>
+    <br><br>
 
-    <tr>
-      <td class="objective">Objects (JSON)</td>
-      <td class="meaning">
-        Structured data using key-value pairs.
-      </td>
+    <a href="/numbers/" class="learn-btn">
+      View Example
+    </a>
+  </td>
+</tr>
 
-      <td class="applied">
-        Used for game configuration and settings.
-      </td>
-    </tr>
+   <tr>
+  <td class="objective">Strings</td>
 
-    <tr>
-      <td class="objective">Operators</td>
-      <td class="meaning">
-        Symbols used for calculations and comparisons.
-      </td>
+  <td class="meaning">
+    Text values stored in code.
+  </td>
 
-      <td class="applied">
-        Examples:
-        <span class="code">+</span>,
-        <span class="code">-</span>,
-        <span class="code">===</span>
-      </td>
-    </tr>
+  <td class="applied">
+    Used for names, dialogue, and labels.
 
-    <tr>
-      <td class="objective">Mathematical</td>
-      <td class="meaning">
-        Performing arithmetic calculations.
-      </td>
+    <br><br>
 
-      <td class="applied">
-        Used for movement, collision, and scoring systems.
-      </td>
-    </tr>
+    <a href="/strings/" class="learn-btn">
+      View Example
+    </a>
+  </td>
+</tr>
 
-    <tr>
-      <td class="objective">String Operations</td>
-      <td class="meaning">
-        Manipulating and combining text.
-      </td>
+   <tr>
+  <td class="objective">Booleans</td>
 
-      <td class="applied">
-        Example:
-        <span class="code">"Score: " + points</span>
-      </td>
-    </tr>
+  <td class="meaning">
+    True or false values.
+  </td>
 
-    <tr>
-      <td class="objective">Boolean Expressions</td>
-      <td class="meaning">
-        Expressions that evaluate to true or false.
-      </td>
+  <td class="applied">
+    Example:
+    <span class="code">isAlive = true</span>
 
-      <td class="applied">
-        Used in game decision-making logic.
-      </td>
-    </tr>
+    <br><br>
+
+    <a href="/booleans/" class="learn-btn">
+      View Example
+    </a>
+  </td>
+</tr>
+
+   <tr>
+  <td class="objective">Arrays</td>
+
+  <td class="meaning">
+    Lists that store multiple values.
+  </td>
+
+  <td class="applied">
+    Used to store enemies, bullets, or items.
+
+    <br><br>
+
+    <a href="/arrays/" class="learn-btn">
+      View Example
+    </a>
+  </td>
+</tr>
 
     <tr>
-      <td class="objective">Input/Output</td>
-      <td class="meaning">
-        Receiving user input and displaying results.
-      </td>
+  <td class="objective">Objects (JSON)</td>
 
-      <td class="applied">
-        Used for controls, menus, and game feedback.
-      </td>
-    </tr>
+  <td class="meaning">
+    Structured data using key-value pairs.
+  </td>
+
+  <td class="applied">
+    Used for game configuration and settings.
+
+    <br><br>
+
+    <a href="/objects-json/" class="learn-btn">
+      View Example
+    </a>
+  </td>
+</tr>
+
+   <tr>
+  <td class="objective">Operators</td>
+
+  <td class="meaning">
+    Symbols used for calculations and comparisons.
+  </td>
+
+  <td class="applied">
+    Examples:
+    <span class="code">+</span>,
+    <span class="code">-</span>,
+    <span class="code">===</span>
+
+    <br><br>
+
+    <a href="/operators/" class="learn-btn">
+      View Example
+    </a>
+  </td>
+</tr>
+
+   <tr>
+  <td class="objective">Mathematical</td>
+
+  <td class="meaning">
+    Performing arithmetic calculations.
+  </td>
+
+  <td class="applied">
+    Used for movement, collision, and scoring systems.
+
+    <br><br>
+
+    <a href="/mathematical/" class="learn-btn">
+      View Example
+    </a>
+  </td>
+</tr>
 
     <tr>
-      <td class="objective">Keyboard Input</td>
-      <td class="meaning">
-        Detecting keyboard interactions.
-      </td>
+  <td class="objective">String Operations</td>
 
-      <td class="applied">
-        Used for player movement and controls.
-      </td>
-    </tr>
+  <td class="meaning">
+    Manipulating and combining text.
+  </td>
 
-    <tr>
-      <td class="objective">Canvas Rendering</td>
-      <td class="meaning">
-        Drawing graphics onto the screen.
-      </td>
+  <td class="applied">
+    Example:
+    <span class="code">"Score: " + points</span>
 
-      <td class="applied">
-        Used to render game characters and backgrounds.
-      </td>
-    </tr>
+    <br><br>
+
+    <a href="/string-operations/" class="learn-btn">
+      View Example
+    </a>
+  </td>
+</tr>
 
     <tr>
-      <td class="objective">GameEnv Configuration</td>
-      <td class="meaning">
-        Setting up the game environment and settings.
-      </td>
+  <td class="objective">Boolean Expressions</td>
 
-      <td class="applied">
-        Used to configure levels, objects, and gameplay values.
-      </td>
-    </tr>
+  <td class="meaning">
+    Expressions that evaluate to true or false.
+  </td>
+
+  <td class="applied">
+    Used in game decision-making logic.
+
+    <br><br>
+
+    <a href="/boolean-expressions/" class="learn-btn">
+      View Example
+    </a>
+  </td>
+</tr>
+
+    <tr>
+  <td class="objective">Input/Output</td>
+
+  <td class="meaning">
+    Receiving user input and displaying results.
+  </td>
+
+  <td class="applied">
+    Used for controls, menus, and game feedback.
+
+    <br><br>
+
+    <a href="/input-output/" class="learn-btn">
+      View Example
+    </a>
+  </td>
+</tr>
+
+   <tr>
+  <td class="objective">Keyboard Input</td>
+
+  <td class="meaning">
+    Detecting keyboard interactions.
+  </td>
+
+  <td class="applied">
+    Used for player movement and controls.
+
+    <br><br>
+
+    <a href="/keyboard-input/" class="learn-btn">
+      View Example
+    </a>
+  </td>
+</tr>
+
+    <tr>
+  <td class="objective">Canvas Rendering</td>
+
+  <td class="meaning">
+    Drawing graphics onto the screen.
+  </td>
+
+  <td class="applied">
+    Used to render game characters and backgrounds.
+
+    <br><br>
+
+    <a href="/canvas-rendering/" class="learn-btn">
+      View Example
+    </a>
+  </td>
+</tr>
+
+    <tr>
+  <td class="objective">GameEnv Configuration</td>
+
+  <td class="meaning">
+    Setting up the game environment and settings.
+  </td>
+
+  <td class="applied">
+    Used to configure levels, objects, and gameplay values.
+
+    <br><br>
+
+    <a href="/gameenv-configuration/" class="learn-btn">
+      View Example
+    </a>
+  </td>
+</tr>
 
   </table>
 </div>
