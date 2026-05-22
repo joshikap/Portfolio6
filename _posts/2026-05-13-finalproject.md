@@ -634,6 +634,27 @@ document.querySelectorAll(".learn-btn").forEach(btn=>{
 });
 </script>
 
+{% capture challenge0 %}
+CSSE Ocean Game
+{% endcapture %}
+
+{% capture code0 %}
+import GameControl from '@assets/js/GameEnginev1.1/essentials/GameControl.js';
+import GameLevelOcean from '@assets/js/projects/ocean/levels/GameLevelOcean.js';
+
+export const gameLevelClasses = [GameLevelOcean];
+export { GameControl };
+{% endcapture %}
+
+{% include runners/game.html
+   runner_id="cs111-0"
+   challenge=challenge0
+   code=code0
+   hide_edit="true"
+   width="100%"
+   height="500px"
+%}
+
 <!-- CHALLENGES SECTION -->
 <div style="margin:60px 20px; padding:30px; background:#0d0d0d; border-radius:18px; border:1px solid rgba(245,43,201,0.3);">
 
