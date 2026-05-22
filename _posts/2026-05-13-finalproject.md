@@ -184,26 +184,37 @@ pre{
 </tr>
 
 <tr>
-<td>Object-Oriented Programming</td>
-<td>Organizing code using classes and objects.</td>
-<td>
-Used for game characters and systems.
-<br>
-<a class="learn-btn" href="/oop-explanation/">View Example</a>
-<a class="learn-btn" href="#">Preview Code</a>
-<details><summary>Show Code</summary>
+  <td>Object-Oriented Programming</td>
+  <td>Organizing code using classes and objects.</td>
+  <td>
+    Used for game characters and systems.
+    <br>
+
+    <a class="learn-btn" href="/oop-explanation/">
+      View Example
+    </a>
+
+    <a class="learn-btn" href="#">
+      Preview Code
+    </a>
+
+    <details>
+      <summary>Show Code</summary>
+
 <pre>
 class Player {
  constructor(name){
    this.name = name;
  }
+
  move(){
    console.log("Moving");
  }
 }
 </pre>
-</details>
-</td>
+
+    </details>
+  </td>
 </tr>
 
 <tr>
