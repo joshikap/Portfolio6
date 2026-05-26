@@ -190,7 +190,7 @@ pre{
     Used for game characters and systems.
     <br>
 
-    <a class="learn-btn" href="/oop-explanation/">
+    <a class="learn-btn" href="/oop-explanation">
       View Example
     </a>
 

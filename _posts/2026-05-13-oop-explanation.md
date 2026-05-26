@@ -1,5 +1,6 @@
 ---
 layout: post
+codemirror: true
 title: Object-Oriented Programming in My Game
 permalink: /oop-explanation
 description: How Object-Oriented Programming is used in my JavaScript ocean game.
