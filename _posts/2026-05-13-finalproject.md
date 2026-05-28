@@ -164,7 +164,7 @@ pre{
 
 
 <div class="hero">
- <h1>🎮 CSSE Learning Objectives</h1>
+ <h1> CSSE Learning Objectives</h1>
 </div>
 
 
