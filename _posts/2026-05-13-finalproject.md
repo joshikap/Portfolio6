@@ -2,7 +2,7 @@
 layout: post
 codemirror: true
 title: CSSE Objectives
-description: A JavaScript game project demonstrating core Computer Science concepts including Object-Oriented Programming, inheritance, control structures, data types, and API integration.
+description: A JavaScript project demonstrating Computer Science concepts including Object-Oriented Programming, inheritance, control structures, data types, and API integration.
 permalink: /information-checklist/
 ---
 
